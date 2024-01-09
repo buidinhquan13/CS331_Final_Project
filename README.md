@@ -5,7 +5,7 @@
 </p>
 
 <!-- Title -->
-<h1 align="center"><b>DS102 - Học Máy Thống Kê</b></h1>
+<h1 align="center"><b>CS331 - THỊ GIÁC MÁY TÍNH NÂNG CAO</b></h1>
 
 
 
